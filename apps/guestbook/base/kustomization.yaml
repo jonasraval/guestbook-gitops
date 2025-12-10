@@ -15,4 +15,4 @@ resources:
 images:
   - name: guestbook
     newName: ghcr.io/jonasraval/guestbook-gitops
-    newTag: main-42e4139
+    newTag: main-9731346
